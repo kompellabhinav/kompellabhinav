@@ -15,7 +15,6 @@ function Abhinav() {
         "Frameworks": ["Node.js", "React.js", "NextJS", "SwiftUi", "jQuery", "Mongoose", "Flutter", "Flask", "Docker", "Anglular.js"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
         }
-    quote = "Don't listen to your mind, make your mind listen to you!"
 };
 ```
 
