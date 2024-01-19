@@ -11,7 +11,7 @@ function Abhinav() {
     pronouns = "He" || "Him"
     askMeAbout = ["Web Development", "tech", "Machine Learning", "Data Science"],
     technologies = {
-        "Languages": ["Javascript", "Typescript", "Python", "Java", "Swift, "HTML", "CSS", "Dart", "Flask", SQL],
+        "Languages": ["Javascript", "Typescript", "Python", "Java", "Swift, "HTML", "CSS", "Dart", "Flask", "SQL"],
         "Frameworks": ["Node.js", "React.js", "NextJS", "SwiftUi", "jQuery", "Mongoose", "Flutter", "Flask", "Docker", "Anglular.js"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
         }
