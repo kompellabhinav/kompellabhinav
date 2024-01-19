@@ -1,21 +1,21 @@
 ### Hi there, I am Abhinav Kompella👋
 
-#### I am a Junior at Georgia State University majoring in Computer Science
+#### I am a Graduate student at Georgia State University majoring in Computer Science
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=kompellabhinav)
 [![Linkedin: Abhinav]([https://cdn5.vectorstock.com/i/thumb-large/99/09/linkedin-social-media-icon-design-template-vector-22339909.jpg](https://www.citypng.com/photo/12384/hd-linkedin-official-logo-transparent-background))](https://www.linkedin.com/in/abhinavkompella/)
 
 
-```python3
-def Abhinav():
-    pronouns = "He" | "Him"
-    code = ["Javascript", "Python", "Java", "Flask"],
+```javascript
+function Abhinav() {
+    pronouns = "He" || "Him"
     askMeAbout = ["Web Development", "tech", "Machine Learning", "Data Science"],
     technologies = {
-        backEnd: ["Node", "Bootstrap", "Flask"],
-        databases: ["mongo", "MySql", "sqlite"],
+        "Languages": ["Javascript", "Typescript", "Python", "Java", "Swift, "HTML", "CSS", "Dart", "Flask", SQL],
+        "Frameworks": ["Node.js", "React.js", "NextJS", "SwiftUi", "jQuery", "Mongoose", "Flutter", "Flask", "Docker", "Anglular.js"],
+        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
         }
-    quote: "Dont listen to your mind, make your mind listen to you!"
+    quote = "Don't listen to your mind, make your mind listen to you!"
 };
 ```
 
@@ -31,9 +31,9 @@ Machine Learning, Data Science
 **Coding Skills** 
 
 ```text
-Python                   █████████████░░░░░░░░   60 % 
+Javascript               █████████████░░░░░░░░   60 % 
 HTML                     ██████████░░░░░░░░░░░   50 % 
 Java                     ██████████░░░░░░░░░░░   50 % 
 Flask                    ██████░░░░░░░░░░░░░░░   25 % 
-Javascript               ████░░░░░░░░░░░░░░░░░   20 % 
+Python                   ████░░░░░░░░░░░░░░░░░   20 % 
 ```
